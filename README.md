@@ -9,7 +9,12 @@ City filter
 ![outcome](images/city.PNG)
 
 State filter
-![outcome](images/state.PNG)
+![outcome](images/State.PNG)
 
 Shape filter
 ![outcome](images/shape.PNG)
+
+## Summary:
+There are several drawbacks of this webpage. One of these drawbacks is that it is case sensitive. Dana should have someone review the code so that searches can be done without have to match exactly.
+
+Two additional enhancement recommendations would be to add a button to clear all entered search criteria for new searches as well as an interactive map that would allow the user to click on a certian region or country. 
