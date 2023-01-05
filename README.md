@@ -4,5 +4,6 @@ The client have a working webpage with dynamic talbe for UFO tracking. However s
 
 ## Results:
 Below are examples of some of the new searches that can now be performed.
+
 City filter
 ![outcome](images/city.PNG)
