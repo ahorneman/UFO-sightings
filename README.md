@@ -7,3 +7,9 @@ Below are examples of some of the new searches that can now be performed.
 
 City filter
 ![outcome](images/city.PNG)
+
+State filter
+![outcome](images/state.PNG)
+
+Shape filter
+![outcome](images/shape.PNG)
